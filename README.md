@@ -35,6 +35,10 @@ User opens the app.
 
 ## 📱 Screenshots
 
+<img src="Screenshots/daily_quote_output1.png" alt="Home Screen" width="300"/>
+
+<img src="Screenshots/daily_quote_output2.png" alt="Quote Screen" width="300"/>
+
 
 ## 🛠️ Tech Stack
 
